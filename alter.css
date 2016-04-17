@@ -1,5 +1,5 @@
 .introtext{
-        margin: 10px 20% 10px 20%;
+        margin: 25px 20% 10px 20%;
         }
 
         #intro{
@@ -12,7 +12,7 @@
                 left:0px; 
                 border:0px; 
                 margin:0px; 
-                padding:0px;
+                padding:30px 0 0 0;
         }
 
    
